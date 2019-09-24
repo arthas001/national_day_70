@@ -7,3 +7,7 @@
 ```
 ./index.js merge -b headimg.jpg -f q.jpeg -t new.jpg
 ```
+
+效果图
+
+![dd](images/output.jpg)
